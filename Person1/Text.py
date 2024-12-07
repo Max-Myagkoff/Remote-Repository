@@ -1,3 +1,3 @@
 print("Hello World!")
-print("Продам гараж")
+print("Продам гаражи")
 
