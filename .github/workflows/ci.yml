@@ -24,4 +24,5 @@ jobs:
     - name: Run tests
       run: |
         pytest
- 
+    - name: Generate Documentation
+      run: npm run generate-docs
