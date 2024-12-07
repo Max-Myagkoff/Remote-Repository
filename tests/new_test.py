@@ -1,4 +1,3 @@
-import bubble_sort.py
 def test_bubble_sort():
     numbers = [64, 34, 25, 12, 22, 11, 90]
     sorted_numbers = bubble_sort(numbers)
